@@ -24,9 +24,21 @@ Si el SDK de Flutter con el que creaste el proyecto es más antiguo que la versi
 
 Debe estar constantemente ejecutando los comandos base de flutter a nivel raiz de proyecto.
 
+`Obtener informacion del proyecto como el sdk de flutter la version de java, version de flutter, etc.`
+
 ```sh(bash)
+# Limpiar construcciones del proyecto
+flutter doctor --verbose
+```
+
+`Reconstruccion rapida`
+
+```sh(bash)
+# Limpiar construcciones del proyecto
 flutter clean
+# Obtener las dependencias del pubspect
 flutter pub get
+# ejecutar el proyecto
 flutter run
 ```
 
@@ -44,4 +56,6 @@ flutter pub upgrade
 - Deberia haber actualizado las dependencias a la versiones actuales de las mismas 
 
 `Si el paso anterior no solucionó`
-2. 
+### 2. Actualizar el sdk a la version estable oficialmente
+
+En muchos casos los errores o bugs que se presentan se originan por la version del sdk quizas por su falta de compatibilidad con el entorno actual de las herramientas de dart
