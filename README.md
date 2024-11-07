@@ -19,3 +19,19 @@ Los paquetes de las dependencias (por ejemplo, flutter pub upgrade) pueden no se
 
 - ### `Incompatibilidades del SDK de Flutter:` 
 Si el SDK de Flutter con el que creaste el proyecto es más antiguo que la versión actual, podrías encontrar errores al intentar construir el proyecto con el SDK de Flutter actual.
+
+### Nota: Sigue los pasos de acuerdo a los casos
+
+### 1. Desuso del proyecto por algun tiempo.
+
+### `Descripcion`
+
+Cuando se deja de ejecutar un proyecto y se deja en el vault del olvido este queda con su dependencias con las que se trabajo, lo que quiere decir que depsues de un tiempo esta versiones estaranen `deprecated`o obsoletas.
+Si este es el caso debemos asegurarnos de ejecutar por consola a nivel raiz de proyecto esto:
+
+```sh(bash)
+flutter pub upgrade
+```
+- Deberia haber actualizado las dependencias a la versiones actuales de las mismas
+
+ 
