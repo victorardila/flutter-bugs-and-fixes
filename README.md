@@ -33,8 +33,9 @@ flutter doctor --verbose
 
 ### `ScreenShoot`
 
-![Consola](https://github.com/user-attachments/assets/447a8178-5daf-48c4-a393-fae69a06839b)
+![Consola](https://github.com/user-attachments/assets/0077ad05-ca07-4e7a-a4bd-33834b0e7eb4)
 
+Aquie esta el resumen de la creacion del proyecto con todas sus especificaciones
 
 `Reconstruccion rapida`
 
@@ -67,10 +68,16 @@ En muchos casos los errores o bugs que se presentan se originan por la version d
 
 ```sh(bash)
 flutter channel
+```
+
+```sh(bash)
 flutter channel stable
+```
+
+```sh(bash)
+flutter upgrade
 ```
 
 ### `ScreenShoot`
 
 ![Consola](https://github.com/user-attachments/assets/0077ad05-ca07-4e7a-a4bd-33834b0e7eb4)
-
