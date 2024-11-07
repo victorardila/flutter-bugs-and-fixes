@@ -22,6 +22,14 @@ Si el SDK de Flutter con el que creaste el proyecto es más antiguo que la versi
 
 ### Nota: Sigue los pasos de acuerdo a los casos
 
+Debe estar constantemente ejecutando los comandos base de flutter a nivel raiz de proyecto.
+
+```sh(bash)
+flutter clean
+flutter pub get
+flutter run
+```
+
 ### 1. Desuso del proyecto por algun tiempo.
 
 ### `Descripcion`
@@ -32,6 +40,4 @@ Si este es el caso debemos asegurarnos de ejecutar por consola a nivel raiz de p
 ```sh(bash)
 flutter pub upgrade
 ```
-- Deberia haber actualizado las dependencias a la versiones actuales de las mismas
-
- 
+- Deberia haber actualizado las dependencias a la versiones actuales de las mismas 
