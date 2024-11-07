@@ -27,7 +27,7 @@ Debe estar constantemente ejecutando los comandos base de flutter a nivel raiz d
 `Obtener informacion del proyecto como el sdk de flutter la version de java, version de flutter, etc.`
 
 ```sh(bash)
-# Limpiar construcciones del proyecto
+# Obtener informacion del desarrollo del proyecto
 flutter doctor --verbose
 ```
 
