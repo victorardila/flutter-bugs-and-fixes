@@ -31,6 +31,11 @@ Debe estar constantemente ejecutando los comandos base de flutter a nivel raiz d
 flutter doctor --verbose
 ```
 
+### `ScreenShoot`
+
+![Consola](https://github.com/user-attachments/assets/0077ad05-ca07-4e7a-a4bd-33834b0e7eb4)
+
+
 `Reconstruccion rapida`
 
 ```sh(bash)
@@ -62,6 +67,7 @@ En muchos casos los errores o bugs que se presentan se originan por la version d
 
 ```sh(bash)
 flutter channel
+flutter channel stable
 ```
 
 ### `ScreenShoot`
