@@ -33,7 +33,7 @@ flutter doctor --verbose
 
 ### `ScreenShoot`
 
-![Consola](https://github.com/user-attachments/assets/0077ad05-ca07-4e7a-a4bd-33834b0e7eb4)
+![Consola](https://github.com/user-attachments/assets/447a8178-5daf-48c4-a393-fae69a06839b)
 
 
 `Reconstruccion rapida`
