@@ -7,8 +7,8 @@
 
 ## `Documentacion`
 
-Este README.md es para actualizar un proyecto Flutter que ha estado inactivo por un tiempo, especialmente si has cambiado de computadora o has actualizado tu entorno de desarrollo, o si por algun caso
-las deendencias de flutter se han actualizado, de cualquier forma si se ha cambiaod la version del SDK de flutter o si deseas hacerlo
+Este README.md es para actualizar un proyecto Flutter que ha estado inactivo por un tiempo, especialmente si has cambiado de computadora o has actualizado tu entorno de desarrollo. De otra manera si por algun caso
+las deendencias de flutter se han actualizado o si se ha cambiado la version del SDK de flutter o quizas desee cambiarlo.
 
 ### Problemas comunes:
 - ### `Incompatibilidades de Gradle:` 
