@@ -10,7 +10,7 @@
 Este README.md es para actualizar un proyecto Flutter que ha estado inactivo por un tiempo, especialmente si has cambiado de computadora o has actualizado tu entorno de desarrollo, o si por algun caso
 las deendencias de flutter se han actualizado, de cualquier forma si se ha cambiaod la version del SDK de flutter o si deseas hacerlo
 
-- ### Problemas comunes:
+### Problemas comunes:
 - ### `Incompatibilidades de Gradle:` 
 Flutter depende de Gradle para la construcción del proyecto. Si has actualizado Flutter, Gradle o tu sistema operativo, es posible que haya incompatibilidades entre las versiones que estén provocando errores.
 
