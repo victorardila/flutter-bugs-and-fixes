@@ -33,7 +33,7 @@ flutter doctor --verbose
 
 ### `ScreenShoot`
 
-![Consola](https://github.com/user-attachments/assets/0077ad05-ca07-4e7a-a4bd-33834b0e7eb4)
+![Consola](https://github.com/user-attachments/assets/fa2ba3d6-4b80-49f8-8485-5a8186c3b273)
 
 Aquie esta el resumen de la creacion del proyecto con todas sus especificaciones
 
