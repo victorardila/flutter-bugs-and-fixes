@@ -40,4 +40,8 @@ Si este es el caso debemos asegurarnos de ejecutar por consola a nivel raiz de p
 ```sh(bash)
 flutter pub upgrade
 ```
+
 - Deberia haber actualizado las dependencias a la versiones actuales de las mismas 
+
+`Si el paso anterior no solucionó`
+2. 
