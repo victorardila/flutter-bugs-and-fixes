@@ -28,15 +28,10 @@ dart pub global activate flutterfire_cli
 - ademas, agrega la variable `flutterfire` a las variables de entorno por ejemplo en linux:
 
 ```bash
-# Copiar código
-dart pub global activate flutterfire_cli
-flutterfire --version
-```
-
-```bash
 # En bashrc o zshrc
 nano ~/.bashrc
 ```
+
 - Agrega $HOME/.pub-cache/bin al PATH: Desplázate al final del archivo y agrega esta línea:
 
 ```bash
