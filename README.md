@@ -9,9 +9,5 @@
 
 # Índice de Documentación
 
-1. [Configuración de Firebase en Flutter](docs/setup_firebase_flutter.md)
-2. [Guía de Instalación](docs/installation_guide.md)
-3. [Configuración de Autenticación](docs/authentication_setup.md)
-4. [Integración con Firestore](docs/firestore_integration.md)
-5. [Uso de Crashlytics](docs/crashlytics_usage.md)
-
+## 1. [Correccion de errores de flutter a nivel del SDK y de las herramientas (Java, kotlin, gradle)](docs/installation_guide.md)
+## 2. [Instalacion y configuración de Firebase en Flutter (Noviembre del 2024)](doc/Firebase's-Integrations-v07.11.2024.md)
