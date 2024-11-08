@@ -89,6 +89,9 @@ Para actualizar su version de gradle hay dos formas de actualizarlo manualmene(N
 
 ### `(Recomendado)`
 A nivel de android del proyecto en la consola debe ejecutar este comando:
+
+Proyecto>📂android
+
 ```sh
 ./gradlew wrapper --gradle-version=8.3
 ```
