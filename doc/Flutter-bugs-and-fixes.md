@@ -61,7 +61,7 @@ flutter pub upgrade
 
 - Deberia haber actualizado las dependencias a la versiones actuales de las mismas 
 
-`Si el paso anterior no solucionó`
+## `Si el paso anterior no solucionó`
 ### 2. Actualizar el SDK a la version estable oficialmente
 
 En muchos casos los errores o bugs que se presentan se originan por la version del SDK quizas por su falta de compatibilidad con el entorno actual de las herramientas de dart
@@ -81,3 +81,6 @@ flutter upgrade
 ### `ScreenShoot`
 
 ![Consola](https://github.com/user-attachments/assets/0077ad05-ca07-4e7a-a4bd-33834b0e7eb4)
+
+## `Si los pasos anteriores no funcionaron quiere decir que el error tiene una profundidad mayor`
+### 3. 
