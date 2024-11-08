@@ -4,7 +4,7 @@
 
 Con este comntenido y este comando generamos los iconos para las diferentes paltaformas en el proyecto flutter
 
-- `Nota:` Recuerda tener los assets del recurso descomentado y correctamente escritos
+- ### `Nota:` Recuerda tener los assets del recurso descomentado y correctamente escritos
 
 `Contenido en el punspect`
 ```yaml
