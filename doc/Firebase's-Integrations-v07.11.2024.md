@@ -25,14 +25,14 @@ firebase login
 dart pub global activate flutterfire_cli
 ```
 
-- ademas, agrega la variable `flutterfire` a las variables de entorno por ejemplo en linux:
+- Ademas, agrega la variable `flutterfire` a las variables de entorno por ejemplo en linux:
 
 ```bash
 # En bashrc o zshrc
 nano ~/.bashrc
 ```
 
-- Agrega $HOME/.pub-cache/bin al PATH: Desplázate al final del archivo y agrega esta línea:
+- Seguidamente agrega $HOME/.pub-cache/bin al PATH: Desplázate al final del archivo y agrega esta línea:
 
 ```bash
 # Copiar código
