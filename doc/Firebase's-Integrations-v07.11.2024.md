@@ -25,6 +25,32 @@ firebase login
 dart pub global activate flutterfire_cli
 ```
 
+- ademas, agrega la variable `flutterfire` a las variables de entorno por ejemplo en linux:
+
+```bash
+# Copiar código
+dart pub global activate flutterfire_cli
+flutterfire --version
+```
+
+```bash
+# En bashrc o zshrc
+nano ~/.bashrc
+```
+- Agrega $HOME/.pub-cache/bin al PATH: Desplázate al final del archivo y agrega esta línea:
+
+```bash
+# Copiar código
+export PATH="$PATH:$HOME/.pub-cache/bin"
+```
+
+- Finalmente, comprueba que tengas una versionde flutterfire instalada
+
+```bash
+# Copiar código
+flutterfire --version
+```
+
 ## 2. Configuración de la aplicación Flutter para usar Firebase
 
 Para conectar tu aplicación Flutter con Firebase, usa la herramienta flutterfire configure. Esto permitirá seleccionar las plataformas (iOS, Android, Web) que usará tu app y generará un archivo de configuración necesario para la conexión.
