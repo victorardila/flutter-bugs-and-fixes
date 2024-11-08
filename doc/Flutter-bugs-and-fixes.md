@@ -82,4 +82,29 @@ flutter upgrade
 ![Consola](https://github.com/user-attachments/assets/0077ad05-ca07-4e7a-a4bd-33834b0e7eb4)
 
 ## `Si los pasos anteriores no funcionaron quiere decir que el error tiene una profundidad mayor`
-### 3. 
+Si por alguna razon se actualizo o actualizaste Android Studio entonces deberas actualizar la version del gradle por cada version de complemento
+
+### 3. Manipular las versiones de Gradle y Kotlin a partir de esta tabla(Recomendado)
+Para actualizar su version de gradle hay dos formas de actualizarlo manualmene(No recomendado) y por consola(Recomendado):
+
+### `(Recomendado)`
+A nivel de android del proyecto en la consola debe ejecutar este comando:
+```sh
+./gradlew wrapper --gradle-version=8.3
+```
+
+### `(No recomendado)`
+
+Debes ir al archivo gradle-wrapper.properties dentro de la carpeta gradle dentro de wrapper
+Proyecto>📂android>📂gradle>📂wrapper
+
+```text
+distribuciónBase= GRADLE_USER_HOME
+distribuciónPath=wrapper/dists
+zipStoreBase= GRADLE_USER_HOME
+zipStorePath=wrapper/dists
+# Cambiar la version del gradle en gardle-(version empleada).zip
+distribuciónUrl=http://services.gradle.org/distributions/gradle-8.3-all.zip
+```
+
+### Sitio oficial: `https://developer.android.com/build/releases/gradle-plugin?hl=es-419`
