@@ -107,7 +107,7 @@ runApp(const MyApp());
 - Finalmente, compila tu aplicación para asegurarte de que la configuración esté funcionando correctamente:
 
 ```bash
-Copiar código
+# Copiar código
 flutter run
 ```
 
