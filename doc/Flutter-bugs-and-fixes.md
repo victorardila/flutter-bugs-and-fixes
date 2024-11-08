@@ -96,6 +96,7 @@ A nivel de android del proyecto en la consola debe ejecutar este comando:
 ### `(No recomendado)`
 
 Debes ir al archivo gradle-wrapper.properties dentro de la carpeta gradle dentro de wrapper
+
 Proyecto>📂android>📂gradle>📂wrapper
 
 ```text
